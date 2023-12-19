@@ -1,0 +1,55 @@
+version: '3'
+services:
+  frontend:
+    build:
+      context: ./omics-data-frontend
+      dockerfile: Dockerfile
+      args:
+        - REACT_APP_API_URL=http://127.0.0.1:5000
+    ports:
+      - "3000:80"
+    volumes:
+      - ./omics-data-frontend:/app
+    environment:
+      - REACT_APP_API_URL=http://127.0.0.1:5000
+    depends_on:
+      - backend
+    networks:
+      - omics-network
+
+  backend:
+    build:
+      context: ./omics-data-backend
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./omics-data-backend:/app
+      - /app/node_modules
+    environment:
+      - PORT=5000
+    networks:
+      - omics-network
+
+  frontend-proxy:
+    image: nginx
+    container_name: frontend-proxy
+    ports:
+      - "80:80"
+    volumes:
+      - ./frontend-nginx.conf:/etc/nginx/nginx.conf:ro
+    networks:
+      - omics-network
+
+  backend-proxy:
+    image: nginx
+    container_name: backend-proxy
+    ports:
+      - "81:80"
+    volumes:
+      - ./backend-nginx.conf:/etc/nginx/nginx.conf:ro
+    networks:
+      - omics-network
+networks:
+  omics-network:
+    driver: bridge

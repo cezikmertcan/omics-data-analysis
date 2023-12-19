@@ -1,0 +1,352 @@
+[
+  {
+    "gene": "Gene1",
+    "sampleA_expression_val": 9.45,
+    "sampleB_expression_val": 7.95,
+    "sampleC_expression_val": 6.45,
+    "sampleD_expression_val": 5.43
+  },
+  {
+    "gene": "Gene2",
+    "sampleA_expression_val": 44.31,
+    "sampleB_expression_val": 7.67,
+    "sampleC_expression_val": 4.89,
+    "sampleD_expression_val": 0.01
+  },
+  {
+    "gene": "Gene3",
+    "sampleA_expression_val": 9.67,
+    "sampleB_expression_val": 0.69,
+    "sampleC_expression_val": 8.31,
+    "sampleD_expression_val": 8.84
+  },
+  {
+    "gene": "Gene4",
+    "sampleA_expression_val": 1.89,
+    "sampleB_expression_val": 2.44,
+    "sampleC_expression_val": 2.79,
+    "sampleD_expression_val": 4.21
+  },
+  {
+    "gene": "Gene5",
+    "sampleA_expression_val": 5.86,
+    "sampleB_expression_val": 3.63,
+    "sampleC_expression_val": 3.56,
+    "sampleD_expression_val": 4.53
+  },
+  {
+    "gene": "Gene6",
+    "sampleA_expression_val": 1.94,
+    "sampleB_expression_val": 3.84,
+    "sampleC_expression_val": 9.75,
+    "sampleD_expression_val": 9.79
+  },
+  {
+    "gene": "Gene7",
+    "sampleA_expression_val": 12.37,
+    "sampleB_expression_val": 3.29,
+    "sampleC_expression_val": 2.28,
+    "sampleD_expression_val": 5.37
+  },
+  {
+    "gene": "Gene8",
+    "sampleA_expression_val": 5.55,
+    "sampleB_expression_val": 3.77,
+    "sampleC_expression_val": 7.28,
+    "sampleD_expression_val": 4.2
+  },
+  {
+    "gene": "Gene9",
+    "sampleA_expression_val": 92.76,
+    "sampleB_expression_val": 6.13,
+    "sampleC_expression_val": 6.75,
+    "sampleD_expression_val": 1.72
+  },
+  {
+    "gene": "Gene10",
+    "sampleA_expression_val": 9.22,
+    "sampleB_expression_val": 1.88,
+    "sampleC_expression_val": 2.42,
+    "sampleD_expression_val": 1.47
+  },
+  {
+    "gene": "Gene11",
+    "sampleA_expression_val": 8.8,
+    "sampleB_expression_val": 2.68,
+    "sampleC_expression_val": 4.65,
+    "sampleD_expression_val": 0.96
+  },
+  {
+    "gene": "Gene12",
+    "sampleA_expression_val": 7.64,
+    "sampleB_expression_val": 28,
+    "sampleC_expression_val": 1.86,
+    "sampleD_expression_val": 2.26
+  },
+  {
+    "gene": "Gene13",
+    "sampleA_expression_val": 7.01,
+    "sampleB_expression_val": 16.96,
+    "sampleC_expression_val": 95.86,
+    "sampleD_expression_val": 2.67
+  },
+  {
+    "gene": "Gene14",
+    "sampleA_expression_val": 1.98,
+    "sampleB_expression_val": 8.82,
+    "sampleC_expression_val": 4.37,
+    "sampleD_expression_val": 6.64
+  },
+  {
+    "gene": "Gene15",
+    "sampleA_expression_val": 6.92,
+    "sampleB_expression_val": 57.75,
+    "sampleC_expression_val": 0.72,
+    "sampleD_expression_val": 2.91
+  },
+  {
+    "gene": "Gene16",
+    "sampleA_expression_val": 8.78,
+    "sampleB_expression_val": 1.54,
+    "sampleC_expression_val": 7.13,
+    "sampleD_expression_val": 0.1
+  },
+  {
+    "gene": "Gene17",
+    "sampleA_expression_val": 0.73,
+    "sampleB_expression_val": 10,
+    "sampleC_expression_val": 82.69,
+    "sampleD_expression_val": 7.6
+  },
+  {
+    "gene": "Gene18",
+    "sampleA_expression_val": 2.7,
+    "sampleB_expression_val": 3.74,
+    "sampleC_expression_val": 1.91,
+    "sampleD_expression_val": 9.79
+  },
+  {
+    "gene": "Gene19",
+    "sampleA_expression_val": 1.43,
+    "sampleB_expression_val": 5.89,
+    "sampleC_expression_val": 0.3,
+    "sampleD_expression_val": 1.08
+  },
+  {
+    "gene": "Gene20",
+    "sampleA_expression_val": 9.99,
+    "sampleB_expression_val": 2.7,
+    "sampleC_expression_val": 19.51,
+    "sampleD_expression_val": 3.4
+  },
+  {
+    "gene": "Gene21",
+    "sampleA_expression_val": 4.79,
+    "sampleB_expression_val": 9.51,
+    "sampleC_expression_val": 3.14,
+    "sampleD_expression_val": 7.13
+  },
+  {
+    "gene": "Gene22",
+    "sampleA_expression_val": 5.25,
+    "sampleB_expression_val": 3.28,
+    "sampleC_expression_val": 5.59,
+    "sampleD_expression_val": 5.86
+  },
+  {
+    "gene": "Gene23",
+    "sampleA_expression_val": 84.56,
+    "sampleB_expression_val": 54.97,
+    "sampleC_expression_val": 7.59,
+    "sampleD_expression_val": 0.8
+  },
+  {
+    "gene": "Gene24",
+    "sampleA_expression_val": 3.95,
+    "sampleB_expression_val": 0.56,
+    "sampleC_expression_val": 1.03,
+    "sampleD_expression_val": 9.09
+  },
+  {
+    "gene": "Gene25",
+    "sampleA_expression_val": 7.8,
+    "sampleB_expression_val": 8.09,
+    "sampleC_expression_val": 77.74,
+    "sampleD_expression_val": 3.92
+  },
+  {
+    "gene": "Gene26",
+    "sampleA_expression_val": 1.68,
+    "sampleB_expression_val": 1.54,
+    "sampleC_expression_val": 2.86,
+    "sampleD_expression_val": 0.43
+  },
+  {
+    "gene": "Gene27",
+    "sampleA_expression_val": 2.31,
+    "sampleB_expression_val": 28.52,
+    "sampleC_expression_val": 7.52,
+    "sampleD_expression_val": 34.47
+  },
+  {
+    "gene": "Gene28",
+    "sampleA_expression_val": 9.67,
+    "sampleB_expression_val": 7.25,
+    "sampleC_expression_val": 1.19,
+    "sampleD_expression_val": 9.82
+  },
+  {
+    "gene": "Gene29",
+    "sampleA_expression_val": 2.26,
+    "sampleB_expression_val": 0.16,
+    "sampleC_expression_val": 4.62,
+    "sampleD_expression_val": 1.86
+  },
+  {
+    "gene": "Gene30",
+    "sampleA_expression_val": 3.27,
+    "sampleB_expression_val": 4.1,
+    "sampleC_expression_val": 25.22,
+    "sampleD_expression_val": 1.34
+  },
+  {
+    "gene": "Gene31",
+    "sampleA_expression_val": 1.38,
+    "sampleB_expression_val": 6.1,
+    "sampleC_expression_val": 4.5,
+    "sampleD_expression_val": 8.01
+  },
+  {
+    "gene": "Gene32",
+    "sampleA_expression_val": 7.45,
+    "sampleB_expression_val": 9.59,
+    "sampleC_expression_val": 0.3,
+    "sampleD_expression_val": 1.37
+  },
+  {
+    "gene": "Gene33",
+    "sampleA_expression_val": 3.71,
+    "sampleB_expression_val": 9.11,
+    "sampleC_expression_val": 7.58,
+    "sampleD_expression_val": 0.99
+  },
+  {
+    "gene": "Gene34",
+    "sampleA_expression_val": 14.85,
+    "sampleB_expression_val": 0.15,
+    "sampleC_expression_val": 6.5,
+    "sampleD_expression_val": 59.88
+  },
+  {
+    "gene": "Gene35",
+    "sampleA_expression_val": 8.99,
+    "sampleB_expression_val": 6.63,
+    "sampleC_expression_val": 5.63,
+    "sampleD_expression_val": 1.06
+  },
+  {
+    "gene": "Gene36",
+    "sampleA_expression_val": 1.11,
+    "sampleB_expression_val": 8.78,
+    "sampleC_expression_val": 28.69,
+    "sampleD_expression_val": 0.88
+  },
+  {
+    "gene": "Gene37",
+    "sampleA_expression_val": 2.09,
+    "sampleB_expression_val": 0.52,
+    "sampleC_expression_val": 4.47,
+    "sampleD_expression_val": 6.37
+  },
+  {
+    "gene": "Gene38",
+    "sampleA_expression_val": 78.94,
+    "sampleB_expression_val": 4.29,
+    "sampleC_expression_val": 2.47,
+    "sampleD_expression_val": 9.54
+  },
+  {
+    "gene": "Gene39",
+    "sampleA_expression_val": 1.48,
+    "sampleB_expression_val": 8.83,
+    "sampleC_expression_val": 3.18,
+    "sampleD_expression_val": 8.29
+  },
+  {
+    "gene": "Gene40",
+    "sampleA_expression_val": 0.21,
+    "sampleB_expression_val": 0.63,
+    "sampleC_expression_val": 2.66,
+    "sampleD_expression_val": 6.49
+  },
+  {
+    "gene": "Gene41",
+    "sampleA_expression_val": 9.47,
+    "sampleB_expression_val": 2.12,
+    "sampleC_expression_val": 2.39,
+    "sampleD_expression_val": 3.42
+  },
+  {
+    "gene": "Gene42",
+    "sampleA_expression_val": 6.08,
+    "sampleB_expression_val": 7.64,
+    "sampleC_expression_val": 5.46,
+    "sampleD_expression_val": 4.77
+  },
+  {
+    "gene": "Gene43",
+    "sampleA_expression_val": 6.86,
+    "sampleB_expression_val": 5.3,
+    "sampleC_expression_val": 9.88,
+    "sampleD_expression_val": 2.58
+  },
+  {
+    "gene": "Gene44",
+    "sampleA_expression_val": 7.26,
+    "sampleB_expression_val": 4.61,
+    "sampleC_expression_val": 86.58,
+    "sampleD_expression_val": 4.49
+  },
+  {
+    "gene": "Gene45",
+    "sampleA_expression_val": 48.74,
+    "sampleB_expression_val": 1.29,
+    "sampleC_expression_val": 7.1,
+    "sampleD_expression_val": 3.74
+  },
+  {
+    "gene": "Gene46",
+    "sampleA_expression_val": 8.87,
+    "sampleB_expression_val": 10.07,
+    "sampleC_expression_val": 8.65,
+    "sampleD_expression_val": 6.56
+  },
+  {
+    "gene": "Gene47",
+    "sampleA_expression_val": 43.23,
+    "sampleB_expression_val": 1.78,
+    "sampleC_expression_val": 0.06,
+    "sampleD_expression_val": 2.49
+  },
+  {
+    "gene": "Gene48",
+    "sampleA_expression_val": 9.83,
+    "sampleB_expression_val": 46.49,
+    "sampleC_expression_val": 5.8,
+    "sampleD_expression_val": 4.6
+  },
+  {
+    "gene": "Gene49",
+    "sampleA_expression_val": 94.71,
+    "sampleB_expression_val": 1.47,
+    "sampleC_expression_val": 2.53,
+    "sampleD_expression_val": 3.93
+  },
+  {
+    "gene": "Gene50",
+    "sampleA_expression_val": 1.72,
+    "sampleB_expression_val": 7.33,
+    "sampleC_expression_val": 9.84,
+    "sampleD_expression_val": 7.83
+  }
+]
